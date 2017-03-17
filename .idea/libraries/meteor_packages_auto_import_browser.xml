@@ -5,6 +5,10 @@
         <item url="file://$USER_HOME$/.meteor/packages/binary-heap/1.0.10/web.browser/min-max-heap.js" />
         <item url="file://$USER_HOME$/.meteor/packages/base64/1.0.10/web.browser/base64.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-runtime/1.0.1/web.browser/babel-runtime.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/web.browser/check-npm-versions.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/createContainer.jsx" />
+        <item url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/ReactMeteorData.jsx" />
+        <item url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/react-meteor-data.jsx" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.10/web.browser/tokens.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.10/web.browser/tojs.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.10/web.browser/preamble.js" />
@@ -140,6 +144,10 @@
       <root url="file://$USER_HOME$/.meteor/packages/binary-heap/1.0.10/web.browser/min-max-heap.js" />
       <root url="file://$USER_HOME$/.meteor/packages/base64/1.0.10/web.browser/base64.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-runtime/1.0.1/web.browser/babel-runtime.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/web.browser/check-npm-versions.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/createContainer.jsx" />
+      <root url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/ReactMeteorData.jsx" />
+      <root url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/react-meteor-data.jsx" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.10/web.browser/tokens.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.10/web.browser/tojs.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.10/web.browser/preamble.js" />

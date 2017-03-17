@@ -1792,6 +1792,7 @@
         <item url="file://$USER_HOME$/.meteor/packages/ecmascript-runtime/0.3.15/npm/node_modules/core-js/modules/_replacer.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ecmascript-runtime/0.3.15/npm/node_modules/core-js/modules/_global.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ecmascript-runtime/0.3.15/npm/node_modules/core-js/modules/es7.object.lookup-setter.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/npm/node_modules/semver/semver.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ecmascript-runtime/0.3.15/npm/node_modules/core-js/modules/es6.regexp.split.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ecmascript-runtime/0.3.15/npm/node_modules/core-js/modules/es6.typed.uint16-array.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ecmascript-runtime/0.3.15/npm/node_modules/core-js/modules/es6.object.get-own-property-names.js" />
@@ -6833,6 +6834,7 @@
       <root url="file://$USER_HOME$/.meteor/packages/ecmascript-runtime/0.3.15/npm/node_modules/core-js/modules/_replacer.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ecmascript-runtime/0.3.15/npm/node_modules/core-js/modules/_global.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ecmascript-runtime/0.3.15/npm/node_modules/core-js/modules/es7.object.lookup-setter.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/npm/node_modules/semver/semver.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ecmascript-runtime/0.3.15/npm/node_modules/core-js/modules/es6.regexp.split.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ecmascript-runtime/0.3.15/npm/node_modules/core-js/modules/es6.typed.uint16-array.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ecmascript-runtime/0.3.15/npm/node_modules/core-js/modules/es6.object.get-own-property-names.js" />
